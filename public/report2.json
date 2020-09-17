@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "question": "test.",
+      "answer": "test2"
+    },
+    {
+      "question": "Berätta om din katalogstruktur och hur du organiserade din kod, hur tänkte du?",
+      "answer": "Jag skapade en katalog med routes, som liknar det som kommer från scaffoldingen med express. Varje route fil exporterar en router."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "question": "RQ1: how well is WCAG(Web content accesabilty guidlines) used today and how can we help more diabled people get online?",
+      "answer": "people with disabilites are less likely to use the web. This is mostly because the internet is not very user friendly towards people with disabilities. many website are missing out on potentail revenue because of this. How can we make it easier for developers to implement features making life easier for disabled people trying to use the web to do this im going to look at the tools available to developers today and how they can be improved. Im also going to look att a select few websites being. Amazon, Facebook and youtube and see how well they do and how they can improve their ratings."
+    },
+    {
+      "question": "RQ2: how much space do the major javascript frameworks use as you build your website?",
+      "answer": "as websites expand they become slower. this because their is just more data to load. but how efficient are the major js framworks at reducing this site to give the end user a fast and smooth experience? im going to test this be building 3 identical websites using React, vue and angular and compare their size and speed on pc and mobile."
+    }
+  ]
+}
