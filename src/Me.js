@@ -7,7 +7,7 @@ const Me = () => {
             .then(res => res.json())
             .then(res => setIntro(res.data.text));
     }, []);
-
+    
     return (
     <div>
       <h1>Me</h1>
